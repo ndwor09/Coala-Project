@@ -39,7 +39,7 @@
 				<!-- Banner -->
 					<section id="banner">
 						<div class="inner">
-							<h2>Covid-19<br/>
+							<h2 id="size">Covid-19<br/>
 							코로나 자가진단
 							</h2>
 							<p>Another fine responsive<br />
